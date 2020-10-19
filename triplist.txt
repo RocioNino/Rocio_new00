@@ -1,0 +1,5 @@
+Este es mi primer repo - Lista de preparación de viaje
+-------------------
+-tiquetes
+-hotel
+-maletas
